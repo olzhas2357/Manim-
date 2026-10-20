@@ -1,0 +1,10 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/2f0e42093fa18cc5176310e87bd60a66ad57ff7ee900d959715aa2f0fb3dbc56.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/b662f11c65236938142e841c11fa13a656c1a79986ebf77fa33d88ccc9008778.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/167f3ecaaf6aab89a67421e1faa7663e27ebb212026c859bf51cbc7c778c315c.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/db73b7a64815acb0eb1b68d712c261381e2157e41ae06c3633fbe32416cf5201.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/0170860b32bd35f5d6131e743c94338d6b20388008b067f2e0773f57d8345cf0.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/0a974e761295752455d2ad0b7b108da1df0a72834cb3c13b268911a7099d4869.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/7519a01d5866f5ac77616ff29d7d01adc62b949a94576b56ca49924e0a5681c1.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/09fec9f7331b7acc6cb8eb45308c2442fbcc3f6a43e2138ce19728e1b8f43ca8.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/reel/960p60/partial_movie_files/Diagonal/465694dfc9939ba50bf1ccd758124f9c80785c70d8210d67ac1538a0a8e51a25.mp4'

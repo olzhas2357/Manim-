@@ -1,0 +1,13 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/052b17b96dde0f8a904ddec605fbf258724cf3ef321d309fa61b5f6c7d06f4a1.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/5fc51f0c0110bbde6f61f1cfaa8a75f30e5c0edbba04ec4e664ebc0dcc745e0a.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/ce5debaa853ff8625a574f433b2f8beb6cfeaf026959c46465553a875441c5bb.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/e4b381b8085e83d68c85149fe2ac76a00cbb0007aa42829859bf846dc5228d01.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/a9c6674de62bb1792c31a21f4187c4e84b80572ed6bcfdca9d8c37d97ad72686.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/15d209a61d6bb69c6b3d8daab4859e4ecf7df7c78459c1c1a647a0f63bdd6f3a.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/2b65ade9ffde3005f9a23ae733433730852134280df2480ae898a883f28a1570.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/b7f30ae1f70c35c25efa7ccc86a391efedb383fbfbf80c8b6590c8737d3488ef.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/84497d699230521ed15db92559040083a3b47345964806b45964d7ce17e242b9.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/aa22de51f4e37f962e5b26a4c22b549ce5d67191aa40c0c9b518e5ce65a51a1d.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/7e963aa746337615be97043f2849f0d23722ae5f05874f2f589bbf88579f192b.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/pascal/960p60/partial_movie_files/PascalTriangle/a3e6bff8daeec2dbe7b6a63deff28a4a448827ff20d93493589a20f25df00db5.mp4'
