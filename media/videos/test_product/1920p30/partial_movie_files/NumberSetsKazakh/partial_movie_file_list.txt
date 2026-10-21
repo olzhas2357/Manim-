@@ -1,0 +1,9 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/21a22e94af27d6b50d6cfa0b929c7efb13d48842ce1e6f4c973c37cb131e655a.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/513649194882f1f5852b424b16dfd6bffc39299bf92373928e6881daf3e62629.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/1a9f4b1bd83fae4f18396d2f4efd43fa45bf08e6e92951f04796c112f2aa88ff.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/c5aa1cfa40ad964b28425c812cff33741fb561e3dc7993b1cd21484e07f3e95d.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/ffdac7d6de1d68e2b47ecab54b17ebcaed997344ebacdcfc4ea1f8d3fe5a4f76.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/d3954b69c0b2cd1c1180eac02ce978c6fcce7379b80dcb8a37cb8bd3297f992a.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/2cf381711797e6cf286b6fa8aa9c3996f366d3d4f245a1b9391a53be1176d9bb.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/test_product/1920p30/partial_movie_files/NumberSetsKazakh/bdc0906fb72b3005db5d087570a851d0f20920b39394a2c4fc9494891ab0046b.mp4'

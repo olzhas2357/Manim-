@@ -1,0 +1,11 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/3a470e74bf8ab29d2cbea6ffb212dc5b28771d92e460133e5b06fda1d0c0bbf5.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/ea6e565a34398840de965924943203efc8bea3ec4effe3fa85d8ed528be84437.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/39b131b820cd47db38f3d45eadd8a4c2a47abbdb512f60cf41f87e099c0caa87.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/3907d1cf01372eda2a81429c46491cb889e3a0296c77f8f4c053bac318613aaa.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/7f53424d3c67d3e1ab9f106aa5443c2d810d1953cbb6630d24af8cfcd90c2b2a.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/965397c6a3f7a1639a5328448877bfdf36fae897b928381c44bee87c1d33f118.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/dc90fc14ed86edd1bcc84951346eeece95b685bb4e3bf1a4b9465b2052f0cee5.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/ada19f00cfe79adf1958587601bb6af73da28863a34ff60f576f301840c9fb2c.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/245a43ebd03350d9cb5476bac1f5d9b1b7241cce18d966fc75f3c654a365c7a7.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/create_new_reels/1920p60/partial_movie_files/SqrtTwoAnimation/0129b27eb22b179f4bd090d655a6ed19f57837d4e6e337f182c1fa2afc7cb8f7.mp4'
