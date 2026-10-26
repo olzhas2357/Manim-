@@ -1,0 +1,8 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/d6b4ab7598ed06ea106cea961f6b9758295191a7c1f439a23c7d11258d531b5f.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/3810b710493bbf32faf7d743c0bae183552bafa68aee666f6c602f4f4d67236e.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/dc80b3ef9b98e8b045ccca710f6e626c9d49813b1f43a84480a73097d7e43ee3.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/f55928892c963eda51113c8dea133ec284874e9e996b4adbfec147d5b471e409.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/1fc06989c3101cc4e789fa78bf7ec10fbb8a9620732b18d26d92e7a30ff2e6a9.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/cc0423fcd3b2fd339610098459b52e0004365be0ee89bd3cd508e1a88c1baf4d.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/task1/480p15/partial_movie_files/TrapezoidSolution/d0c6e37032a564782016ff52d6971252b7d080094422c84c68be0bb2d15a9da8.mp4'
