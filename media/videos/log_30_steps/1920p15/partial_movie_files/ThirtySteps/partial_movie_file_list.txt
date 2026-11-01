@@ -1,0 +1,9 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/0206fc572abec5501f236b48ebad7dcdbd22a2becca249e6bc576d13bf4d7853.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/41a07a6743789b87fecba43936f307c4bb1a0ec903be673f2c95402153d47c28.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/ee9b44d13f2edcf8009c8c64b6b9044882b12b5396e214ea8d0772cabd02087f.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/28dbf0204a65699ac10818820b37d3b9b551cbd1ad58c7342f21b012f1cfcdcf.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/56a8e4cb5eaad821143f0d4d7e1ff8bb55ab400f4800d2e9a694587fe69f9ae9.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/cd60b954ffbce54b321c410cbfe8d6f218b234fa89b67be6ea0869caa2a35bbc.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/86c70e2e6b99f49f37b2aaea948c90dc852765ae4adf7bc18f8327150ca0ac37.mp4'
+file 'file:/Users/olzhas/projects/manim/media/media/videos/log_30_steps/1920p15/partial_movie_files/ThirtySteps/1feb993817e6ce5f5de1cc69e8be3537077c74c5fc2368dd8905e316fb7b08db.mp4'
